@@ -160,8 +160,8 @@ h6{
   background-color: #00004d;
   border-radius: 5px;
   height: 100%;
-  width: 50%;
-  transition: width
+  width: 0%;
+  transition: width 0.1s linear;
 }
 
 
